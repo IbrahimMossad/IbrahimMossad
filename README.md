@@ -102,5 +102,5 @@
 </p>
 
 <p align="center">
-  ⚡ <i>I think I learn quickly.</i>
+  ⚡ <i>Always learning, building, and improving backend systems..</i>
 </p>
