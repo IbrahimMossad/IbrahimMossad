@@ -66,8 +66,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayan-ibrahem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayan-ibrahem&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimMossad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMossad&layout=compact&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kayan-ibrahem&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=IbrahimMossad&hide_border=true" />
 </p>
 
 ---
@@ -91,7 +91,7 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kayan-ibrahem" target="_blank">
+  <a href="https://linkedin.com/in/ibrahim-mossad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
