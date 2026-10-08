@@ -79,7 +79,7 @@
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IbrahimMossad&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=IbrahimMossad&hide_border=true&theme=dark" />
 </p>
 
 ---
