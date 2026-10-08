@@ -48,18 +48,9 @@
 
 <h2 align="center">⚙️ Backend Expertise</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge" alt="RESTful APIs">
-  <img src="https://img.shields.io/badge/API_Integration-000000?style=for-the-badge" alt="API Integration">
-  <img src="https://img.shields.io/badge/Database_Design-000000?style=for-the-badge" alt="Database Design">
-  <img src="https://img.shields.io/badge/Authentication-000000?style=for-the-badge" alt="Authentication">
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/RESTful%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/API%20Integration-000000?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Database%20Design-000000?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Authentication-000000?style=for-the-badge&logo=auth0&logoColor=white" /> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Payment_Integrations-000000?style=for-the-badge" alt="Payment Integrations">
-  <img src="https://img.shields.io/badge/Third--Party_Integrations-000000?style=for-the-badge" alt="Third Party Integrations">
-  <img src="https://img.shields.io/badge/Scalable_Backend_Systems-000000?style=for-the-badge" alt="Scalable Backend Systems">
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Payment%20Integrations-000000?style=for-the-badge&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/Third--Party%20Integrations-000000?style=for-the-badge&logo=connectivity&logoColor=white" /> <img src="https://img.shields.io/badge/Scalable%20Systems-000000?style=for-the-badge&logo=serverless&logoColor=white" /> </p>
 
 ---
 
