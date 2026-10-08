@@ -67,11 +67,11 @@
 
 <p align="center">
  <img
-    src="https://github-readme-stats.vercel.app/api?username=IbrahimMossad&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=IbrahimMossad&show_icons=true&hide_border=true&theme=dark"
     height="170"
     alt="GitHub Stats"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMossad&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMossad&layout=compact&hide_border=true&theme=dark" height="170"/>
 </p>
 
 ---
